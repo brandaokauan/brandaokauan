@@ -3,7 +3,7 @@
 🚀 **Junior backend developer Java**  
 🇧🇷 Brazil
 
-I am currently a student of Systems Analysis and Development, in my third semester. I am deepening my knowledge in back-end development with Java and also specializing in databases with SQL and MySQL.
+I am currently a student of  Systems Analysis and Development, in my third semester. I am deepening my knowledge in back-end development with Java and also specializing in databases with SQL and MySQL.
 
 ---
 
