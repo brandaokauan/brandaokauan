@@ -13,6 +13,9 @@ I am currently a student of Systems Analysis and Development, in my third semest
   <a href="https://github.com/brandaokauan">
     <img src="https://img.shields.io/badge/GitHub-BRANDAOKAUAN-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/kauanbrandao/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </p>
 
 ---
