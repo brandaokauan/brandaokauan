@@ -10,7 +10,7 @@ I am currently a student of  Systems Analysis and Development, in my third semes
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/brandaokauan">
     <img src="https://img.shields.io/badge/GitHub-BRANDAOKAUAN-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -69,3 +69,4 @@ I am currently a student of  Systems Analysis and Development, in my third semes
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+
